@@ -6,7 +6,6 @@
 class Cw: public TelloPro
 {
 public:
-	Cw();
 	Cw(int _value);
 
 public:

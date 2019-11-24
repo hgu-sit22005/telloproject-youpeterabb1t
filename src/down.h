@@ -6,7 +6,6 @@
 class Down: public TelloPro
 {
 public:
-	Down();
 	Down(int _value);
 
 public:

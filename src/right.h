@@ -6,7 +6,6 @@
 class Right: public TelloPro
 {
 public:
-	Right();
 	Right(int _value);
 
 public:

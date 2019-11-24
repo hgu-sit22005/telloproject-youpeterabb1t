@@ -6,25 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/data/telloproject-youpeterabb1t/src/Back.h
-TelloPro.h
-/data/telloproject-youpeterabb1t/src/TelloPro.h
-cstring
--
-
-/data/telloproject-youpeterabb1t/src/Ccw.h
-TelloPro.h
-/data/telloproject-youpeterabb1t/src/TelloPro.h
-cstring
--
-
 /data/telloproject-youpeterabb1t/src/TelloPro.h
 boost/python.hpp
 -
 
 /data/telloproject-youpeterabb1t/src/back.cpp
-Back.h
-/data/telloproject-youpeterabb1t/src/Back.h
+back.h
+/data/telloproject-youpeterabb1t/src/back.h
 cstring
 -
 sstream
@@ -37,8 +25,8 @@ cstring
 -
 
 /data/telloproject-youpeterabb1t/src/ccw.cpp
-Ccw.h
-/data/telloproject-youpeterabb1t/src/Ccw.h
+ccw.h
+/data/telloproject-youpeterabb1t/src/ccw.h
 cstring
 -
 sstream

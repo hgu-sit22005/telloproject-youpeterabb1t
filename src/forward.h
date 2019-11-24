@@ -6,7 +6,6 @@
 class Forward: public TelloPro
 {
 public:
-	Forward();
 	Forward(int _value);
 
 public:

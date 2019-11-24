@@ -6,7 +6,6 @@
 class Back: public TelloPro
 {
 public:
-	Back();
 	Back(int _value);
 
 public:
